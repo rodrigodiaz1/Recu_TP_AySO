@@ -1,1 +1,1 @@
-# Recu_TP_AySO
+Nombre = rodri Diaz | Comision = 111 | Turno = Mañana
